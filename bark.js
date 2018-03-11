@@ -1,8 +1,8 @@
 function bark(name, weight){
     if (weight > 20) {
-        console.log(name + "HAU-HAU");
+        console.log(name + " szczeka HAU-HAU");
     }else {
-        console.log(name + "hau-hau");
+        console.log(name + " szczeka hau-hau");
     }
 }
 
